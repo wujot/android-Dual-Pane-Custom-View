@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom Views</string>
+    <!-- Item Titles -->
+    <string name="item_title_person">Profile</string>
+    <string name="item_title_community">Community</string>
+    <string name="item_title_social">Social</string>
+    <string name="item_title_share">Share</string>
+</resources>
